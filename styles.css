@@ -98,6 +98,11 @@ a:hover {
       margin-right: 30px;
 }
 
+.responsive {
+      width: 100%;
+      height: auto;
+}
+
 .top-cloud {
       width: 5%;
       position: absolute;
